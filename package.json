@@ -1,0 +1,27 @@
+{
+  "name": "md-textbook",
+  "version": "0.0.0",
+  "description": "Markdown textbook engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Catethysis/md-textbook.git"
+  },
+  "keywords": [
+    "markdown"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Catethysis/md-textbook/issues"
+  },
+  "homepage": "https://github.com/Catethysis/md-textbook",
+  "dependencies": {
+    "highlight.js": "^8.0.0",
+    "js-yaml": "^3.0.2",
+    "marked": "^0.3.2"
+  }
+}
